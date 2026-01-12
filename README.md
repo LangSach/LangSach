@@ -18,7 +18,7 @@
 <div>
   <img align="right" width="300" alt="Harashi Avatar" src="HarashiYowshi.jpg" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
+  <h2><img src="avatar.png" width="35"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
     🚀 <b>High-Performance Backend Engineer.</b><br>
