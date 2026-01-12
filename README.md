@@ -16,7 +16,7 @@
   </a>
 </div>
 <div>
-  <img align="right" width="300" alt="Lăng_Sách" src="avatar.png" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
+  <img align="right" width="300" alt="Lăng_Sách" src="avatar.png" style="border-radius:15px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
   
