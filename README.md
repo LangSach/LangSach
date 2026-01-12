@@ -6,13 +6,13 @@
 
 
 <div align="center">
-  <a href="[https://github.com/HYowshi](https://github.com/LangSach)">
+  <a href="https://github.com/LangSach">
     <img src="https://img.shields.io/badge/Github-1a1b26.svg?style=for-the-badge&logo=github&logoColor=FF9100" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/in/t%C3%A2m-t%E1%BA%A1-duy-30b5663a0/](https://www.linkedin.com/in/montersky-emd-68b2453a3/)">
+  <a href="https://www.linkedin.com/in/montersky-emd-68b2453a3/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ptien20065@gmail.com.com">
+  <a href="mailto:ptien20065@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="sofieru_chan">
