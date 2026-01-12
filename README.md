@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lăng Phạm  
-<img src="https://giphy.com/embed/yzxss2P1ZW8OTFjHl6" width="372" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6">via GIPHY</a></p>
+<img src="https://giphy.com/embed/yzxss2P1ZW8OTFjHl6" width="372" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6">via GIPHY</a></p>
 
 
 
