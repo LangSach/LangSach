@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/HYowshi">
+  <a href="https://github.com/Lang](https://github.com/LangSach">
     <img src="https://img.shields.io/badge/Github-1a1b26.svg?style=for-the-badge&logo=github&logoColor=FF9100" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/t%C3%A2m-t%E1%BA%A1-duy-30b5663a0/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:harashiyowshi@gmail.com">
+  <a href="mailto:ptien20065@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="HYowshi">
+  <a href="Lang_Sach">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -24,9 +24,9 @@
 ---
 
 <div>
-  <img align="right" width="300" alt="Harashi Avatar" src="HarashiYowshi.jpg" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
+  <img align="right" width="300" alt="Harashi Avatar" src="avatar.png" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
-  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
+  <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjcTJtOHprcG4wN3cyOWs3Y2t4cHB0aDduMW91YTkyZGhhejIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzxss2P1ZW8OTFjHl6/giphy.gif" width="35"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
     🚀 <b>High-Performance Backend Engineer.</b><br>
