@@ -1,4 +1,4 @@
-[![MasterHead](Background.gif)](https://github.com/HYowshi)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+Unity;HTML5+%2F+CSS3+%2F+JS" alt="Typing SVG" />
@@ -90,7 +90,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,255;255,145,0,255&height=120&section=footer" width="100%">
   <div style="margin-top: -90px; position: relative; z-index: 10;">
     <p style="color: white; font-weight: bold; font-family: sans-serif;">
-      © 2025 Harashi Yowshi | ⚡ Building the Future
+      © 2025 Lang_Hạ | ⚡ Building the Future
     </p>
   </div>
 </div>
