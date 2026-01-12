@@ -15,26 +15,29 @@
     <img src="https://img.shields.io/badge/Discord-4C1D95?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
-<img align="right" width="300"
-src="avatar.png"
-style="border-radius:20px;
-box-shadow: 0 0 25px rgba(124,58,237,0.6);
-border: 2px solid #7C3AED;" />
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-312E81?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-4C1D95?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/OpenGL-1E1B4B?style=for-the-badge&logo=opengl&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-581C87?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-312E81?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-4C1D95?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=HYowshi&theme=tokyo-night&hide_border=true" />
-<img src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-purple.svg" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,30,75,124&height=120&section=footer"/>
-<p align="center">
-  © 2025 Lang_Hạ ⚡ Building the Future
-</p>
+
+<h2 align="center">🌆 Cyber City Map</h2>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
+</div>
+<br>
+
+<h2 align="center">🐍 Fire Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,255;255,145,0,255&height=120&section=footer" width="100%">
+  <div style="margin-top: -90px; position: relative; z-index: 10;">
+    <p style="color: white; font-weight: bold; font-family: sans-serif;">
+      © 2025 Harashi Yowshi | ⚡ Building the Future
+    </p>
+  </div>
+</div>
