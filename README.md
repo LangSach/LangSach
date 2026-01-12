@@ -1,26 +1,17 @@
-<!-- HERO IMAGE -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897789-84b68444-0c7a-4c47-b8c4-3f4f3e5a7b9c.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&text=Lăng%20Phạm&fontColor=f59e0b&fontSize=50&desc=Frontend%20Developer&descAlignY=65" />
 </p>
-
-<h1 align="center">LĂNG PHẠM</h1>
-
-<h3 align="center" style="color:#f59e0b">
-  Frontend Developer
-</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://linkedin.com/in/yourname">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-4f46e5?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -32,15 +23,14 @@
 <tr>
 <td width="60%">
 
-🚀 **Frontend-focused Web Developer**  
+🚀 **Frontend-focused Web Developer**
 
-- 🌱 Currently learning **JavaScript, Backend, Supabase**
-- 💻 Build **clean – responsive – user-friendly UI**
+- 🌱 Learning **JavaScript, Backend, Supabase**
+- 💻 Clean, responsive UI
 - 🎯 Goal: **Full-stack Developer**
-- 🇻🇳 Based in **Vietnam**
+- 🇻🇳 Vietnam
 
-🧠 **Mindset**  
-> *“Good UI is invisible. Great UX feels natural.”*
+> *"Build simple things, but build them right."*
 
 </td>
 <td width="40%" align="center">
@@ -55,64 +45,30 @@
 
 ## 🛠 Skills & Technologies
 
-### ⚡ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase" />
-</p>
-
-### 🚀 Tools & Deploy
-<p>
-  <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,supabase,netlify,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-🔹 **Job Portal Website**  
-`HTML • CSS • JavaScript • Supabase`
-
-🔹 **Personal Portfolio Website**  
-`Responsive • Modern UI`
-
-🔹 **AI Job Recommendation (Idea)**  
-`Smart Job Matching`
-
-👉 *More projects in my repositories.*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=flat" />
-</p>
 ## 🏙️ Cyber City Map
-
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🔥 Fire Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
 <p align="center">
   © 2025 Lăng Phạm ⚡ Building the Future
-</p>
-
-
-
-<p align="center">
-  ⭐ Thanks for visiting ⭐
 </p>
