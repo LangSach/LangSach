@@ -1,74 +1,96 @@
-<!-- ================= HERO ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&text=Lăng%20Phạm&fontColor=f59e0b&fontSize=50&desc=Frontend%20Developer&descAlignY=65" />
-</p>
+[![MasterHead](Background.gif)](https://github.com/HYowshi)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+Unity;HTML5+%2F+CSS3+%2F+JS" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/HYowshi">
+    <img src="https://img.shields.io/badge/Github-1a1b26.svg?style=for-the-badge&logo=github&logoColor=FF9100" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/t%C3%A2m-t%E1%BA%A1-duy-30b5663a0/">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:harashiyowshi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  <a href="HYowshi">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+<br>
 
 ---
 
-## 👤 About Me
+<div>
+  <img align="right" width="300" alt="Harashi Avatar" src="HarashiYowshi.jpg" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
-<table>
-<tr>
-<td width="60%">
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
+  
+  <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
+    🚀 <b>High-Performance Backend Engineer.</b><br>
+    Tôi tập trung xây dựng các hệ thống có khả năng mở rộng, độ trễ thấp và kiến trúc bền vững.<br><br>
+    ⚙️ <b>Core Stack:</b>
+    <ul>
+        <li><b>C++ & C#:</b> Tối ưu hóa bộ nhớ, đa luồng (multithreading).</li>
+        <li><b>Unity:</b> Phát triển Gameplay systems và Game Backend.</li>
+        <li><b>Web Tech:</b> HTML5, CSS3, JS cho tools hỗ trợ.</li>
+    </ul>
+    🔭 <b>Mục tiêu:</b> Đẩy giới hạn phần cứng, tạo code sạch và hiệu quả.<br>
+    <i>"Optimization is not just a task, it's a mindset."</i>
+  </p>
+</div>
 
-🚀 **Frontend-focused Web Developer**
-
-- 🌱 Learning **JavaScript, Backend, Supabase**
-- 💻 Clean, responsive UI
-- 🎯 Goal: **Full-stack Developer**
-- 🇻🇳 Vietnam
-
-> *"Build simple things, but build them right."*
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://i.pinimg.com/736x/9b/9c/50/9b9c50540bdb7c0a56aeb8d8edb0c8b6.jpg" width="250"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🛠 Skills & Technologies
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Skills & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,supabase,netlify,git,github,vscode" />
-</p>
+<div align="center">
+  
+  ### ⚡ Backend & Game Dev
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  </p>
+  
+  ### 🌐 Web & Tools
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
+</div>
 
 ---
 
-## 🏙️ Cyber City Map
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+<h2 align="center">🌆 Cyber City Map</h2>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
+</div>
+<br>
+
+<h2 align="center">🐍 Fire Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+  </picture>
+</div>
 
 ---
 
-## 🔥 Fire Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  © 2025 Lăng Phạm ⚡ Building the Future
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,255;255,145,0,255&height=120&section=footer" width="100%">
+  <div style="margin-top: -90px; position: relative; z-index: 10;">
+    <p style="color: white; font-weight: bold; font-family: sans-serif;">
+      © 2025 Harashi Yowshi | ⚡ Building the Future
+    </p>
+  </div>
+</div>
