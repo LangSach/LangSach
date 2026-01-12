@@ -18,7 +18,7 @@
 <div>
   <img align="right" width="300" alt="Harashi Avatar" src="HarashiYowshi.jpg" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
-  <h2><img src="avatar.png" width="35"> About Me</h2>
+  <h2 style="text-algin: center;"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
     🚀 <b>High-Performance Backend Engineer.</b><br>
