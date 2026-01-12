@@ -26,7 +26,7 @@
 <div>
   <img align="right" width="300" alt="Harashi Avatar" src="avatar.png" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
-  <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjcTJtOHprcG4wN3cyOWs3Y2t4cHB0aDduMW91YTkyZGhhejIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzxss2P1ZW8OTFjHl6/giphy.gif" width="auto" height="500px"> About Me</h2>
+  <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjcTJtOHprcG4wN3cyOWs3Y2t4cHB0aDduMW91YTkyZGhhejIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzxss2P1ZW8OTFjHl6/giphy.gif" width="500px" height="500px"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
     🚀 <b>High-Performance Backend Engineer.</b><br>
