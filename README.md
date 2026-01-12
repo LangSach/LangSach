@@ -1,22 +1,30 @@
+[![MasterHead](Background.gif)](https://github.com/HYowshi)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+Unity;HTML5+%2F+CSS3+%2F+JS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+Unity;HTML5+%2F+CSS3+%2F+JS" alt="Typing SVG" />
 </div>
+
 <div align="center">
-  <a href="https://github.com/LangSach">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED"/>
+  <a href="https://github.com/HYowshi">
+    <img src="https://img.shields.io/badge/Github-1a1b26.svg?style=for-the-badge&logo=github&logoColor=FF9100" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/t%C3%A2m-t%E1%BA%A1-duy-30b5663a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ptien20065@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-581C87?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:harashiyowshi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="Lang_Sach">
-    <img src="https://img.shields.io/badge/Discord-4C1D95?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="HYowshi">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
+
+<br>
+
+---
+
 <div>
-  <img align="right" width="300" alt="Lăng_Sách" src="avatar.png" style="border-radius:15px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
+  <img align="right" width="300" alt="Harashi Avatar" src="avatar.png" style="border-radius:20px; box-shadow: 0 0 20px rgba(255, 145, 0, 0.4); border: 2px solid #FF9100;"/>
 
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
   
@@ -58,6 +66,9 @@
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </p>
 </div>
+
+---
+
 <h2 align="center">🌆 Cyber City Map</h2>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
