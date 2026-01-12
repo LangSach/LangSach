@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Lăng Phạm  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lăng%20Phạm&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6)" width="400"/>
+</p>
+
 
 
 🎓 **Web Developer | Frontend Enthusiast**  
