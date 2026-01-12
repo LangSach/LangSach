@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Lăng Phạm  
-<p align="center">
-  <img src="([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjcTJtOHprcG4wN3cyOWs3Y2t4cHB0aDduMW91YTkyZGhhejIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzxss2P1ZW8OTFjHl6/giphy.gif) )" width="400"/>
-</p>
+<iframe src="https://giphy.com/embed/yzxss2P1ZW8OTFjHl6" width="372" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6">via GIPHY</a></p>
 
 
 
