@@ -1,46 +1,104 @@
-# 👋 Hi, I'm Lăng Phạm  
+<!-- HERO IMAGE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897789-84b68444-0c7a-4c47-b8c4-3f4f3e5a7b9c.gif" width="100%" />
+</p>
 
-🎓 **Web Developer | Frontend Enthusiast**  
-💻 I love building clean, responsive, and user-friendly websites  
+<h1 align="center">LĂNG PHẠM</h1>
+
+<h3 align="center" style="color:#f59e0b">
+  Frontend Developer
+</h3>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-4f46e5?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+🚀 **Frontend-focused Web Developer**  
+
 - 🌱 Currently learning **JavaScript, Backend, Supabase**
-- 👨‍💻 Focus on **Web Development**
-- 🎯 Goal: Become a **Full-stack Developer**
-- 🇻🇳 From Vietnam  
+- 💻 Build **clean – responsive – user-friendly UI**
+- 🎯 Goal: **Full-stack Developer**
+- 🇻🇳 Based in **Vietnam**
+
+🧠 **Mindset**  
+> *“Good UI is invisible. Great UX feels natural.”*
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/736x/9b/9c/50/9b9c50540bdb7c0a56aeb8d8edb0c8b6.jpg" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+## 🛠 Skills & Technologies
+
+### ⚡ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+### 🚀 Tools & Deploy
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Job Portal Website** – HTML, CSS, JS, Supabase  
-- 🔹 **Portfolio Website** – Responsive design  
-- 🔹 **AI Job Recommendation (Idea)**  
 
-👉 *More projects in my repositories!*
+🔹 **Job Portal Website**  
+`HTML • CSS • JavaScript • Supabase`
+
+🔹 **Personal Portfolio Website**  
+`Responsive • Modern UI`
+
+🔹 **AI Job Recommendation (Idea)**  
+`Smart Job Matching`
+
+👉 *More projects in my repositories.*
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🌐 Portfolio: https://your-portfolio.netlify.app  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=flat" />
+</p>
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  ⭐ Thanks for visiting ⭐
+</p>
