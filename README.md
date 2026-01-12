@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Lăng Phạm  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lăng%20Phạm&fontSize=40&fontColor=ffffff)
+
 
 🎓 **Web Developer | Frontend Enthusiast**  
 💻 I love building clean, responsive, and user-friendly websites  
