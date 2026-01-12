@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lăng Phạm  
 <p align="center">
-  <img src="(https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6)" width="400"/>
+  <img src="([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/yzxss2P1ZW8OTFjHl6](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJjcTJtOHprcG4wN3cyOWs3Y2t4cHB0aDduMW91YTkyZGhhejIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yzxss2P1ZW8OTFjHl6/giphy.gif) )" width="400"/>
 </p>
 
 
