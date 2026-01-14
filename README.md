@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+Unity;HTML5+%2F+CSS3+%2F+JS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Engineer;High-Performance+Systems;C%2B%2B+%7C+C%23+%7C+;HTML5+%2F+CSS3+%2F+JS" />
 </div>
 
 
