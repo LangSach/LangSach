@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=871F78&center=true&vCenter=true&width=600&lines=Data+Analytisc;Data-management;C%2B%2B+%7C+C%23+%7C+C;HTML+%2F+CSS+%2F+JS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=871F78&center=true&vCenter=true&width=600&lines=Data+Analytisc;Data-management;IT-SUPPOST;C%2B%2B+%7C+C%23+%7C+C;HTML+%2F+CSS+%2F+JS" />
 </div>
 
 
@@ -35,7 +35,7 @@
     ⚙️ <b>Core Stack:</b>
     <ul>
         <li><b>C++ & C#:</b> Tối ưu hóa bộ nhớ, đa luồng (multithreading).</li>
-        <li><b>Unity:</b> Phát triển Gameplay systems và Game Backend.</li>
+        <li><b>SQL Sever</b> Cơ sở dữ diệu và quản lý dữ liệu</li>
         <li><b>Web Tech:</b> HTML5, CSS3, JS cho tools hỗ trợ.</li>
     </ul>
     🔭 <b>Mục tiêu:</b> Đẩy giới hạn phần cứng, tạo code sạch và hiệu quả.<br>
