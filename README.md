@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
     <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
-    <img src="https://img.shields.io/badge/SQL-#800020.svg?style=for-the-badge&logo=SQLl&logoColor=white" alt="SQL"
+    <img src="https://img.shields.io/badge/SQL-800020.svg?style=for-the-badge&logo=SQLl&logoColor=white" alt="SQL"
   </p>
   
   ### 🌐 Web & Tools
