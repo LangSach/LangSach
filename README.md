@@ -1,6 +1,9 @@
-<div align="center">
-[![MasterHead](Honkai_Impact_3_Live_Wallpaper.gif)](https://github.com/LangSach)
-</div>
+  <p align="center">
+  <a href="https://github.com/LangSach">
+    <img src="Honkai_Impact_3_Live_Wallpaper.gif" width="1000" height="auto" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=871F78&center=true&vCenter=true&width=600&lines=Data+Analytisc;Data-management;IT-SUPPOST;C%2B%2B+%7C+C%23+%7C+C;HTML+%2F+CSS+%2F+JS" />
 </div>
