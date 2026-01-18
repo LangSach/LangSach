@@ -94,14 +94,7 @@
 ---
 
 <div align="center">
-    <img 
-    src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=120
-    &section=footer
-    &gradient=true
-    &customColorList=12,15"
-    width="100%"
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&gradient=true&customColorList=12,15"width="100%"
   />
   <div style="margin-top: -90px; position: relative; z-index: 10;">
     <p style="color: white; font-weight: bold; font-family: sans-serif;">
