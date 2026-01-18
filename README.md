@@ -1,6 +1,6 @@
   <p align="center">
   <a href="https://github.com/LangSach">
-    <img src="Honkai_Impact_3_Live_Wallpaper.gif" width="1000" height="auto" />
+    <img src="Honkai_Impact_3_Live_Wallpaper.gif" width="700" height="auto" />
   </a>
 </p>
 
