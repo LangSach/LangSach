@@ -94,7 +94,10 @@
 ---
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:2b1055,0d0221"/>
+    <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a0dad,000000"
+    width="100%"
+  >
   <div style="margin-top: -90px; position: relative; z-index: 10;">
     <p style="color: white; font-weight: bold; font-family: sans-serif;">
       © 2025 Lăng_Hạ | ⚡ Building the Future
